@@ -2,7 +2,7 @@
 
 bash
 ```
-php artisan generate:key
+php artisan key:generate
 php artisan migrate
 ```
 
