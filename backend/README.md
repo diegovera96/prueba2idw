@@ -1,12 +1,14 @@
 ## Instructions
 
-bash```
+bash
+```
 php artisan generate:key
 php artisan migrate
 ```
 
 ## Start
 
-bash```
+bash
+```
 php artisan serve
 ```

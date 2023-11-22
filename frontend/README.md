@@ -1,10 +1,12 @@
 ## Instructions
 
-bash```
+bash
+```
 npm install
 ```
 
 ## Start
-bash```
+bash
+```
 npm start
 ```
